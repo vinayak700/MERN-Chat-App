@@ -1,4 +1,4 @@
-﻿## Build Chat App with React, Socket.io, Nodejs, Redux-Toolkit, MongoDB (2024)
+﻿## Build Chat App with React, Socket.io, Nodejs, Redux-Toolkit, MongoDB
 
 ![Alt text](Full%20Stack%20Chat%20App.png?raw=true "Title")
 
@@ -14,7 +14,3 @@ JWT_SECRET_KEY = <JWT Secret Key>
 
 REACT_APP_CLOUDINARY_CLOUD_NAME = <Cloudinary cloud name>
 REACT_APP_BACKEND_URL = <Backend URL>
-
-# Assets File
-
-Google Drive : https://drive.google.com/drive/folders/1mu6WFx63mlsbbwugdWgRGII_1YPruL00?usp=sharing
