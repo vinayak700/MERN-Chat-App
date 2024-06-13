@@ -4,7 +4,7 @@
 
 Welcome to our stunning MERN application project! This project involves building a modern MERN Chat Application with interactive features. Below, you'll find the URLs for the client and server applications, along with the required tech stacks.
 
-# Since Render does not support wesocket, I recommend you to please test this application on your local machine only. 
+## Since Render does not support wesocket, I recommend you to please test this application on your local machine only. 
 
 ### Client Application
 
